@@ -9,17 +9,10 @@ System Requirements
 
 ## Basic Commands
 ### Starting ProdEase AI
-bash
-copy to clipboard
-Copy code
 ```
 kenneth -jaypee -felix -ailene --start ProdEase
 ```
-### 
-Stopping ProdEase AI
-bash
-copy to clipboard
-Copy code
+### Stopping ProdEase AI
 ```
 kenneth -jaypee -felix -ailene --stop ProdEase
 ```
