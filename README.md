@@ -12,12 +12,16 @@ Starting ProdEase AI
 bash
 copy to clipboard
 Copy code
+```
 kenneth -jaypee -felix -ailene --start ProdEase
+```
 Stopping ProdEase AI
 bash
 copy to clipboard
 Copy code
+```
 kenneth -jaypee -felix -ailene --stop ProdEase
+```
 Features and Capabilities
 ProdEase AI assists business operations teams in various ways:
 
