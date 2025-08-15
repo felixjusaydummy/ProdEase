@@ -1,4 +1,4 @@
-#ProdEase AI Documentation
+# ProdEase AI Documentation
 
 Overview
 ProdEase AI is an intelligent assistant specifically designed to support business operations teams in streamlining their daily tasks and improving operational efficiency.
@@ -7,14 +7,15 @@ Getting Started
 System Requirements
 [Note: Specific system requirements would need to be provided]
 
-Basic Commands
-Starting ProdEase AI
+## Basic Commands
+### Starting ProdEase AI
 bash
 copy to clipboard
 Copy code
 ```
 kenneth -jaypee -felix -ailene --start ProdEase
 ```
+### 
 Stopping ProdEase AI
 bash
 copy to clipboard
